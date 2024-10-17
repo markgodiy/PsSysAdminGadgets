@@ -29,6 +29,8 @@ This repository will be modular and scalable, with future plans to integrate wit
 
 To use **PsSysAdminGadgets**, you will need the following hardware components:
 
+![image](https://github.com/user-attachments/assets/8ae66eb4-9bc3-49bf-9f24-2327da9ef055)
+
 - **Adafruit FT232H breakout board**
 - **2 x Push Buttons** connected to GPIO
 - **2 x RGB LEDs** connected to GPIO
